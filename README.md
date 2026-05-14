@@ -26,8 +26,9 @@ Workshop-003/
 ├── database/
 │   └── predictions.db
 ├── evidence/
-   └── evidence1.png
-   └── evidence2.png
-   └── evidence3.png
-   └── evidence4.png
+│   └── evidence1.png
+│   └── evidence2.png
+│   └── evidence3.png
+│   └── evidence4.png
+├── /
 └── README.md
