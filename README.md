@@ -38,12 +38,14 @@ Workshop-003/
 ```
 
 ### Tecnologias usadas:
-**- Python 3.14**
-**- Apache Kafka 3.6.1**
-**- Scikit-learn**
-**- Pandas**
-**- Matplotlib / Seaborn**
-**- SQLite**
+
+- **Python 3.14**
+- **Apache Kafka 3.6.1**
+- **Scikit-learn**
+- **Pandas**
+- **Matplotlib / Seaborn**
+- **SQLite**
+
 
 ## Pasos para ejecutar este workshop 
 
